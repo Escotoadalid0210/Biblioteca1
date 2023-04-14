@@ -251,6 +251,8 @@ ALTER TABLE `materia`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
+
+
 -- AUTO_INCREMENT de la tabla `prestamo`
 --
 ALTER TABLE `prestamo`
